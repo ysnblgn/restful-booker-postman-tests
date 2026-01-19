@@ -5,66 +5,72 @@
 		{
 			"key": "baseUrl",
 			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "username",
 			"value": "admin",
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "password",
 			"value": "password123",
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "token",
-			"value": "",
+			"value": "1d5100ad7516c31",
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "bookingId",
-			"value": "",
+			"value": 3890,
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "firstname",
-			"value": "",
+			"value": "Jim",
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "lastname",
-			"value": "",
+			"value": "Brown",
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "totalprice",
-			"value": "",
+			"value": "111",
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "checkin",
-			"value": "",
+			"value": "2013-02-23",
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "checkout",
-			"value": "",
+			"value": "2014-10-23",
+			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "additionalneeds",
-			"value": "",
-			"enabled": true
-		},
-		{
-			"key": "patchNeeds",
-			"value": "",
+			"value": "Breakfast",
+			"type": "default",
 			"enabled": true
 		}
 	],
 	"color": null,
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2026-01-15T20:11:43.476Z",
-	"_postman_exported_using": "Postman/11.80.3"
+	"_postman_exported_at": "2026-01-19T21:01:53.900Z",
+	"_postman_exported_using": "Postman/11.81.0"
 }
