@@ -1,0 +1,70 @@
+{
+	"id": "dc66d432-5311-4b8b-8fc2-db82ec935a91",
+	"name": "Restful API Env",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://restful-booker.herokuapp.com",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "admin",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "password123",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "firstname",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "lastname",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "totalprice",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "checkin",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "checkout",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "additionalneeds",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "patchNeeds",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-01-15T20:11:43.476Z",
+	"_postman_exported_using": "Postman/11.80.3"
+}
